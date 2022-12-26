@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio de Fixacao Conta", "Exercicio de Fixacao Conta\Exercicio de Fixacao Conta.csproj", "{94A66033-F897-4259-A0AC-93D5FE2182AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A66033-F897-4259-A0AC-93D5FE2182AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A66033-F897-4259-A0AC-93D5FE2182AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A66033-F897-4259-A0AC-93D5FE2182AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A66033-F897-4259-A0AC-93D5FE2182AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C4041E-8B19-4CF2-86A3-E3441EFC8EFC}
+	EndGlobalSection
+EndGlobal
